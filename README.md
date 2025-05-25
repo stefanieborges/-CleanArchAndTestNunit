@@ -2,7 +2,7 @@
 O presente projeto retrata um estudo de caso que aborda os conceitos de arquitetura limpa e seus testes em uma api de login de usuários.
 Além disso foi utilizado o entity framework para conexão com o banco de dados além da validação de login usando JWT.
 ## Clean Architecture - Utilizando o padrão Onion
-A estrutura das pastas do projeto ficaram da seguinte forma 
+<p>A estrutura das pastas do projeto ficaram da seguinte forma</p>
 <img src="https://github.com/stefanieborges/CleanArchAndTestNunit/blob/master/Img/cleanImg.png"/>
 ## Testes com o Nunit
 Foram feitos 4 teste nesse presente projeto:
