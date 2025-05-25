@@ -6,7 +6,7 @@ A estrutura das pastas do projeto ficaram da seguinte forma
 <img src=""/>
 ## Testes com o Nunit
 Foram feitos 4 teste nesse presente projeto:
-### 1º - Teste de registro de usuário retornando status 200 - OK
+### 1º - Teste de registro de usuário devendo retornar status 200 - OK
 
 ```csharp
 [Test]
@@ -47,7 +47,7 @@ StatusCode: OK
 Body: {"flag":true,"message":"Usuário cadatrado com sucesso!"}
 ```
 
-### 2º  - Teste de login do usuário retornando o token JWT e também retornado status 200 - OK
+### 2º - Teste de login do usuário devendo retornar o token JWT e status 200 - OK
 ```csharp
 [Test]
 public async Task Login_ShouldReturn_JWTToken()
