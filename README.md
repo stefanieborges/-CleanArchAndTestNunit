@@ -3,7 +3,7 @@ O presente projeto retrata um estudo de caso que aborda os conceitos de arquitet
 Além disso foi utilizado o entity framework para conexão com o banco de dados além da validação de login usando JWT.
 ## Clean Architecture - Utilizando o padrão Onion
 A estrutura das pastas do projeto ficaram da seguinte forma 
-<img src=""/>
+<img src="https://github.com/stefanieborges/CleanArchAndTestNunit/blob/master/Img/cleanImg.png"/>
 ## Testes com o Nunit
 Foram feitos 4 teste nesse presente projeto:
 ### 1º - Teste de registro de usuário devendo retornar status 200 - OK
