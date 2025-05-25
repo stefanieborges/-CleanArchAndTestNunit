@@ -6,7 +6,7 @@ Além disso foi utilizado o entity framework para conexão com o banco de dados 
 <img src="https://github.com/stefanieborges/CleanArchAndTestNunit/blob/master/Img/cleanImg.png"/>
 
 ## Testes com o Nunit
-Foram feitos 4 teste nesse presente projeto:
+Foram feitos 4 testes nesse projeto:
 ### 1º - Teste de registro de usuário devendo retornar status 200 - OK
 
 ```csharp
