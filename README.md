@@ -39,7 +39,13 @@ public async Task Register_ShouldReturn_Created()
 }
 ```
 
-<img src=""/>
+### Exemplo de saída do teste
+
+```
+StatusCode: OK
+Body: {"flag":true,"message":"Login realizado com sucesso!","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjMiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiVXN1w6FyaW8gZGUgVGVzdGUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ0ZXN0dXNlckBleGFtcGxlLmNvbSIsImV4cCI6MTc0ODY0Mzc2OSwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzExMiIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjcxMTIifQ.HNCI1e3w2D03vzk_d7d_8WtD2SmAzfkZTslyvFRPuDA"}
+```
+
 2º  - Teste de login do usuário retornando o token JWT e também retornado status 200 - OK
 <img src=""/>
 3º - Teste de erro de senha no login do usuário devendo retornar status 401 - Unauthorized
