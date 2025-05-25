@@ -1,5 +1,5 @@
 # Clean Architecture e Testes com Nunit
-<p>Este projeto é um estudo de caso prático que demonstra a aplicação dos princípios da Arquitetura Limpa em uma API de autenticação de usuários e sejs teste.</p>
+<p>Este projeto é um estudo de caso prático que demonstra a aplicação dos princípios da Arquitetura Limpa em uma API de autenticação de usuários e seus teste.</p>
 <p>Outras tecnologias utilizadas:</p>
 <p>✅ Entity Framework,</p>
 <p>✅ SQL Server,</p>
