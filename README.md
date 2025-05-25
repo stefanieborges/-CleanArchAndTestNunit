@@ -1,6 +1,10 @@
 # Clean Architecture e Testes com Nunit
-O presente projeto retrata um estudo de caso que aborda os conceitos de arquitetura limpa e seus testes em uma api de login de usuários.
-Além disso foi utilizado o entity framework para conexão com o banco de dados além da validação de login usando JWT.
+<p>Este projeto é um estudo de caso prático que demonstra a aplicação dos princípios da Arquitetura Limpa em uma API de autenticação de usuários e sejs teste.</p>
+Outras tecnologias utilizadas:
+✅ Entity Framework,
+✅ SQL Server,
+✅ Autenticação de usuários com JWT.
+
 ## Clean Architecture - Utilizando o padrão Onion
 <p>A estrutura das pastas do projeto ficaram da seguinte forma</p>
 <img src="https://github.com/stefanieborges/CleanArchAndTestNunit/blob/master/Img/cleanImg.png"/>
