@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401BFB06-56F9-4F11-83D1-554DE79FE848}|Application\\Application.csproj|c:\\users\\stefa\\source\\repos\\authenticationjwt\\application\\tests\\apitests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401BFB06-56F9-4F11-83D1-554DE79FE848}|Application\\Application.csproj|solutionrelative:application\\tests\\apitests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8D432-9FCB-4C16-BB4D-C8F590DFDE0E}|Infrasctruture\\Infrasctruture.csproj|c:\\users\\stefa\\source\\repos\\authenticationjwt\\infrasctruture\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8D432-9FCB-4C16-BB4D-C8F590DFDE0E}|Infrasctruture\\Infrasctruture.csproj|solutionrelative:infrasctruture\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD7098D-B84A-4975-86FD-2ED0CB2DDDD3}|WebAPI\\WebAPI.csproj|c:\\users\\stefa\\source\\repos\\authenticationjwt\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD7098D-B84A-4975-86FD-2ED0CB2DDDD3}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\Infrasctruture\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrasctruture\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\Infrasctruture\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Infrasctruture\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:29:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:47:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthTests.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\Application\\Tests\\APITests\\AuthTests.cs",
+              "RelativeDocumentMoniker": "Application\\Tests\\APITests\\AuthTests.cs",
+              "ToolTip": "C:\\Users\\stefa\\source\\repos\\AuthenticationJWT\\Application\\Tests\\APITests\\AuthTests.cs",
+              "RelativeToolTip": "Application\\Tests\\APITests\\AuthTests.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwGgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:58:03.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
